@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techno-negi
-- 👀 I’m interested in Physics
+- 👀 I’m interested in Physics and Music
 - 🌱 I’m currently developing softwares
 - 💞️ I’m looking to collaborate on solving orbital dynamics.
 - 📫 How to reach me tanmay.negi@outlook.com.au
